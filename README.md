@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bjornleck
 - 👀 I’m interested in sneakers
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on everything
+- 💞️ I’m looking to collaborate on everything that involves sneaker bots
 - 📫 How to reach me bjornleck@hotmail.com
 
 <!---
